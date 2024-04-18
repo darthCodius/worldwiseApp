@@ -13,18 +13,6 @@
       }
     },
     {
-      "id": "cd26",
-      "cityName": "Rajakhera",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-04-17T13:50:02.568Z",
-      "notes": "",
-      "position": {
-        "lat": "26.90492620106451",
-        "lng": "78.23913574218751"
-      }
-    },
-    {
       "id": "2bbd",
       "cityName": "Bharatpur",
       "country": "India",
@@ -34,6 +22,18 @@
       "position": {
         "lat": "27.205785724383325",
         "lng": "77.60192871093751"
+      }
+    },
+    {
+      "id": "2f40",
+      "cityName": "Lucknow",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-17T14:28:41.176Z",
+      "notes": "",
+      "position": {
+        "lat": "26.83770386842665",
+        "lng": "80.93233108520509"
       }
     }
   ]
